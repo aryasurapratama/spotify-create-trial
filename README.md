@@ -11,8 +11,8 @@
 - pkg upgrade
 - pkg install php
 - pkg install git
-- git clone https://github.com/arimaulanafirmansyah/spotitit
-- cd spotitit
+- git clone https://github.com/aryasurapratama/spotify-create-trial
+- cd spotify-create-trial
 - php index.php
 
 # Tools Spotify Premium 3 Bulan Samsung
@@ -22,9 +22,4 @@ Tidak Perlu Pay Di Aplikasi
 - Login Akun Sesuai Yang Di Buat Oleh Tools
 - Pay Pake VCC Kalian 🙂
 Link Plan : https://www.spotify.com/id/redirect-in-app/android_premium_promotion/?offerSlug=samsung-global2022-pdp-3m-3m-trial-one-time-code
-# Donate 
-Dana : 085157792618
 
-
-# SOURCE
-Agatha Sangkara
